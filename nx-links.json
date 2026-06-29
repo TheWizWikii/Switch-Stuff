@@ -31,11 +31,11 @@
     "hekate_ipl.ini": "https://raw.githubusercontent.com/HamletDuFromage/nx-links/master/resources/hekate_ipl.ini"
   },
   "custom": {
+    "--- [ 📱 APLICACIONES / HOMEBREW ] ---": "https://github.com/TheWizWikii/Switch-Stuff",
     "Mission Control (FW: 22.5.0)": "https://github.com/ndeadly/MissionControl/releases/download/v0.15.2/MissionControl-0.15.2-master-d3941d43.zip",
     "TicoBro + Repos Roms (1.0.0)": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/Ticobro.All.Repositories.Roms.zip",
-    "Horizon OC (Overclock)": "https://github.com/Horizon-OC/Horizon-OC/releases/download/2.4.0/dist.zip"
-  },
-  "ports": {
+    "Horizon OC (Overclock)": "https://github.com/Horizon-OC/Horizon-OC/releases/download/2.4.0/dist.zip",
+    "--- [ 🎮 PORTS DE JUEGOS ] ---": "https://github.com/TheWizWikii/Switch-Stuff",
     "The Simpsons: Hit And Run (Port)": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/Simp-H-A-R.zip",
     "TLOZ: Majoras Mask (Port)": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/Majoras2s2h.zip",
     "TLOZ: Ocarina of Time (Port)": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/soh.zip"

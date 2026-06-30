@@ -15,7 +15,7 @@
     {
       "name": "EjemploPort",
       "url": "https://github.com/TheWizWikii/Switch-Stuff/releases/download/ports/Spaghettify-Switch.zip",
-      "dest": "/switch/EjemploPort.zip"
+      "dest": "/switch/EjemploPort.zip",
       "extract": true
     }
   ],
@@ -23,7 +23,7 @@
     {
       "name": "Atmosphere",
       "url": "https://github.com/Atmosphere-NX/Atmosphere/releases/latest/download/atmosphere.zip",
-      "dest": "/atmosphere.zip"
+      "dest": "/atmosphere.zip",
       "extract": true
     }
   ]

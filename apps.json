@@ -1,26 +1,28 @@
 {
-  "Mission Control (FW: 22.5.0)": "https://github.com/ndeadly/MissionControl/releases/download/v0.15.2/MissionControl-0.15.2-master-d3941d43.zip",
-  "TicoBro + Repos Roms (1.0.0)": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/Ticobro.All.Repositories.Roms.zip",
-  "Tico GameCube Remapper (0.0.1)": "https://github.com/NyxTheShield/Tico-GC-Remapper/releases/download/0.0.1/ticogcremapper.nro",
-  "Tico Wii Remapper (1.0.0)": "https://github.com/alucardiio-yt/Tico-Wii-Remapper/releases/download/v1.0.0/Tico-Wii-Remapper.zip",
-  "Tico + Cores/Bios (0.7.2)": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/tico-0.7.2.zip",
-  "Tico Wii Menu (WADS)": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/Tico-Wii-Menu.zip",
-  "Castlevania: Symphony of the Night (Port)": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/sotn.zip",
-  "The Simpsons: Hit And Run (Port)": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/Simp-H-A-R.zip",
-  "TLOZ: Twilight Princess (Port Dusk 1.4.1)": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/Dusk.zip",
-  "TLOZ: Majoras Mask (Port)": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/Majoras2s2h.zip",
-  "TLOZ: Ocarina of Time (Port)": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/soh.zip",
-  "Horizon OC (Overclock)": "https://github.com/Horizon-OC/Horizon-OC/releases/download/2.4.0/dist.zip",
-  "ARMSX2 (1.2.0)": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/armsx2.zip",
-  "Roms Duckstation": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/RMS.DuckStation.zip",
-  "Chiaki (2.2.0)": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/Chiaki.2.2.0.zip",
-  "Fizeau (2.8.2)": "https://github.com/averne/Fizeau/releases/download/v2.8.2/Fizeau-2.8.2-309b628.zip",
-  "Sys-Tune (2.1.0)": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/Systune.2.1.0.zip",
-  "Emuiibo (1.1.3)": "https://github.com/alucardiio-yt/archives-nx/releases/download/v22.1.0/Z.emuiibo1.1.3.zip",
-  "PPSSPP (22.1.0)": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/PPSSPP.zip",
-  "RetroArch (22.1.0)": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/RetroArch.zip",
-  "Duckstation (22.1.0)": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/PSX.Duckstation.zip",
-  "melonDS (22.1.0)": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/melonDS.zip",
-  "mGBA (22.1.0)": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/mGBA.zip",
-  "Pfbneo (22.1.0)": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/Pfbneo.zip"
+  "APPS": [
+    {
+      "name": "Checkpoint",
+      "url": "https://github.com/FlagBrew/Checkpoint/releases/latest/download/Checkpoint.nro",
+      "dest": "/switch/Checkpoint/Checkpoint.nro"
+    },
+    {
+      "name": "MiAppPersonal",
+      "url": "https://github.com/TU_USUARIO/TU_REPO/releases/download/v1.0/miapp.nro",
+      "dest": "/switch/MiAppPersonal/miapp.nro"
+    }
+  ],
+  "PORTS": [
+    {
+      "name": "EjemploPort",
+      "url": "https://github.com/TheWizWikii/Switch-Stuff/releases/download/ports/Spaghettify-Switch.zip",
+      "dest": "/switch/EjemploPort.zip"
+    }
+  ],
+  "CFW": [
+    {
+      "name": "Atmosphere",
+      "url": "https://github.com/Atmosphere-NX/Atmosphere/releases/latest/download/atmosphere.zip",
+      "dest": "/atmosphere.zip"
+    }
+  ]
 }

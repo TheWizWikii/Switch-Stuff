@@ -11,7 +11,7 @@
     }
   },
   "hekate": {
-    "hekate_ctcaer_6.5.3_Nyx_1.9.3.zip": "https://github.com/CTCaer/hekate/releases/download/v6.5.3/hekate_ctcaer_6.5.3_Nyx_1.9.3.zip"
+    "test app": "https://github.com/TheWizWikii/Switch-Stuff/releases/download/ports/Spaghettify-Switch.zip"
   },
   "payloads": {
     "fusee.bin": "https://github.com/Atmosphere-NX/Atmosphere/releases/download/1.11.2/fusee.bin",
@@ -24,6 +24,7 @@
     "Firmware 21.2.0": "https://github.com/THZoria/NX_Firmware/releases/download/21.2.0/Firmware.21.2.0.zip",
     "Firmware 21.1.0": "https://github.com/THZoria/NX_Firmware/releases/download/21.1.0/Firmware.21.1.0.zip",
     "Firmware 21.0.15": "https://github.com/THZoria/NX_Firmware/releases/download/21.0.1/Firmware.21.0.1.zip"
+    "test app": "https://github.com/TheWizWikii/Switch-Stuff/releases/download/ports/Spaghettify-Switch.zip"
   },
   "hekate_ipl": {
     "hekate_ipl.ini": "https://raw.githubusercontent.com/HamletDuFromage/nx-links/master/resources/hekate_ipl.ini"

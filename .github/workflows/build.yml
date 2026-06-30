@@ -1,0 +1,32 @@
+name: Build NRO
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    container:
+      image: devkitpro/devkita64:latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Instalar dependencias (zziplib, jansson, sdl2, curl...)
+        run: |
+          dkp-pacman -Sy --noconfirm switch-curl switch-mbedtls switch-zlib \
+            switch-sdl2 switch-sdl2_image switch-sdl2_ttf switch-jansson \
+            switch-bzip2 switch-libpng switch-freetype switch-zziplib
+
+      - name: Compilar
+        run: make
+
+      - name: Subir artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: switch-updater-nro
+          path: switch-updater.nro

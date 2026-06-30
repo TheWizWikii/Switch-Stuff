@@ -13,17 +13,50 @@
   ],
   "PORTS": [
     {
-      "name": "EjemploPort",
+      "name": "Spaghettify (MK64)",
       "url": "https://github.com/TheWizWikii/Switch-Stuff/releases/download/ports/Spaghettify-Switch.zip",
+      "dest": "/switch",
+      "extract": true
+    },
+    {
+      "name": "OtroPort",
+      "url": "https://github.com/usuario/repo/releases/download/v1/otroport.zip",
       "dest": "/switch",
       "extract": true
     }
   ],
   "CFW": [
     {
-      "name": "Atmosphere",
-      "url": "https://github.com/Atmosphere-NX/Atmosphere/releases/latest/download/atmosphere.zip",
+      "name": "Pack CFW AIO Basic 22.0.0",
+      "url": "https://github.com/TheWizWikii/NS-CFW-Packs/releases/download/22.0.0/minimal.zip",
       "dest": "/",
+      "extract": true,
+      "strip": 2
+    }
+  ],
+  "FIRMWARE": [
+    {
+      "name": "Firmware 22.5.0",
+      "url": "https://github.com/THZoria/NX_Firmware/releases/download/22.5.0/Firmware.22.5.0.zip",
+      "dest": "/firmware/25.5.0",
+      "extract": true
+    },
+    {
+      "name": "Firmware 22.1.0",
+      "url": "https://github.com/THZoria/NX_Firmware/releases/download/22.1.0/Firmware.22.1.0.zip",
+      "dest": "/firmware/22.1.0",
+      "extract": true
+    },
+    {
+      "name": "Firmware 22.0.0",
+      "url": "https://github.com/THZoria/NX_Firmware/releases/download/22.0.0/Firmware.22.0.0.zip",
+      "dest": "/firmware/22.0.0",
+      "extract": true
+    },
+    {
+      "name": "Firmware 21.2.0",
+      "url": "https://github.com/THZoria/NX_Firmware/releases/download/21.2.0/Firmware.21.2.0.zip",
+      "dest": "/firmware/21.2.0",
       "extract": true
     }
   ]

@@ -6,9 +6,10 @@
       "dest": "/switch/Checkpoint/Checkpoint.nro"
     },
     {
-      "name": "MiAppPersonal",
-      "url": "https://github.com/TU_USUARIO/TU_REPO/releases/download/v1.0/miapp.nro",
-      "dest": "/switch/MiAppPersonal/miapp.nro"
+      "name": "MissionControl",
+      "url": "https://github.com/ndeadly/MissionControl/releases/download/v0.15.2/MissionControl-0.15.2-master-d3941d43.zip",
+      "dest": "/",
+      "extract": true
     }
   ],
   "PORTS": [
@@ -19,8 +20,20 @@
       "extract": true
     },
     {
-      "name": "OtroPort",
-      "url": "https://github.com/usuario/repo/releases/download/v1/otroport.zip",
+      "name": "Castlevania: Symphony of the Night (Android)",
+      "url": "https://github.com/TheWizWikii/Switch-Stuff/releases/download/ports/CastlevaniaSotm.zip",
+      "dest": "/switch",
+      "extract": true
+    },
+    {
+      "name": "The Legend of Zelda: Majora's Mask (N64)",
+      "url": "https://github.com/TheWizWikii/Switch-Stuff/releases/download/ports/2s2hMajorasMask.zip",
+      "dest": "/switch",
+      "extract": true
+    },
+    {
+      "name": "Max Payne (Android)",
+      "url": "https://github.com/TheWizWikii/Switch-Stuff/releases/download/ports/maxpayne.zip",
       "dest": "/switch",
       "extract": true
     }
@@ -32,6 +45,14 @@
       "dest": "/",
       "extract": true,
       "strip": 2
+    }
+  ],
+   "EMULADORES": [
+    {
+      "name": "PGEN",
+      "url": "https://github.com/TheWizWikii/Switch-Stuff/releases/download/emus/pgen.zip",
+      "dest": "/switch",
+      "extract": true
     }
   ],
   "FIRMWARE": [

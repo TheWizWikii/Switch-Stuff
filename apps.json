@@ -26,7 +26,7 @@
     },
     {
       "name": "Castlevania: Symphony of the Night (Android)",
-      "url": "https://github.com/TheWizWikii/Switch-Stuff/releases/download/ports/CastlevaniaSotm.zip",
+      "url": "https://github.com/TheWizWikii/Switch-Stuff/releases/download/ports/sotn.zip",
       "dest": "/switch",
       "extract": true
     },

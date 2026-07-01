@@ -56,6 +56,12 @@
       "dest": "/",
       "extract": true,
       "strip": 2
+    },
+    {
+      "name": "PACK CFW SCENE BACKUP 22.5.0 FINAL",
+      "url": "https://github.com/TheWizWikii/NS-CFW-Packs/releases/download/22.5.0/PACK.SCENE.BACKUP.22.5.0.FINAL.zip",
+      "dest": "/",
+      "extract": true
     }
   ],
    "EMU": [

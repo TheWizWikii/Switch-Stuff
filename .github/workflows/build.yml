@@ -9,25 +9,10 @@ jobs:
   build:
     runs-on: ubuntu-latest
     container:
-      image: devkitpro/devkita64:latest
+      image: devkitpro/switchdev:latest
 
     steps:
       - uses: actions/checkout@v4
-
-      - name: Instalar dependencias
-        env:
-          DEBIAN_FRONTEND: noninteractive
-        run: |
-          dkp-pacman --noconfirm -Sy --disable-download-timeout \
-            switch-curl switch-mbedtls switch-zlib \
-            switch-sdl2 switch-sdl2_image switch-sdl2_ttf \
-            switch-jansson switch-bzip2 switch-libpng \
-            switch-freetype switch-zziplib || true
-          dkp-pacman --noconfirm -Sy --disable-download-timeout \
-            switch-curl switch-mbedtls switch-zlib \
-            switch-sdl2 switch-sdl2_image switch-sdl2_ttf \
-            switch-jansson switch-bzip2 switch-libpng \
-            switch-freetype switch-zziplib
 
       - name: Compilar
         env:

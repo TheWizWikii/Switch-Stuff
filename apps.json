@@ -47,7 +47,7 @@
       "strip": 2
     }
   ],
-   "EMULADORES": [
+   "EMU": [
     {
       "name": "PGEN",
       "url": "https://github.com/TheWizWikii/Switch-Stuff/releases/download/emus/pgen.zip",

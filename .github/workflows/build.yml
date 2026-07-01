@@ -9,7 +9,10 @@ jobs:
   build:
     runs-on: ubuntu-latest
     container:
-      image: devkitpro/switchdev:latest
+      image: ghcr.io/thewizwikii/switch-builder:latest
+      credentials:
+        username: ${{ github.actor }}
+        password: ${{ secrets.GITHUB_TOKEN }}
 
     steps:
       - uses: actions/checkout@v4

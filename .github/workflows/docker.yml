@@ -28,4 +28,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: ghcr.io/${{ github.repository_owner }}/switch-builder:latest
+          tags: ghcr.io/thewizwikii/switch-builder:latest

@@ -23,7 +23,9 @@ jobs:
             switch-bzip2 switch-libpng switch-freetype switch-zziplib
 
       - name: Compilar
-        run: make
+        run: |
+          make clean
+          make
 
       - name: Subir artifact
         uses: actions/upload-artifact@v4

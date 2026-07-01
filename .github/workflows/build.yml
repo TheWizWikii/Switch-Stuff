@@ -16,9 +16,15 @@ jobs:
 
       - name: Instalar dependencias
         run: |
-          dkp-pacman -Sy --noconfirm switch-curl switch-mbedtls switch-zlib \
-            switch-sdl2 switch-sdl2_image switch-sdl2_ttf switch-jansson \
-            switch-bzip2 switch-libpng switch-freetype switch-zziplib
+          dkp-pacman --noconfirm -U \
+            https://pkg.devkitpro.org/packages/switch/aarch64/switch-curl-8.10.1-1-aarch64.pkg.tar.xz \
+            https://pkg.devkitpro.org/packages/switch/aarch64/switch-mbedtls-3.6.2-1-aarch64.pkg.tar.xz \
+            https://pkg.devkitpro.org/packages/switch/aarch64/switch-zlib-1.3.1-1-aarch64.pkg.tar.xz \
+            https://pkg.devkitpro.org/packages/switch/aarch64/switch-sdl2-2.30.9-2-aarch64.pkg.tar.xz \
+            https://pkg.devkitpro.org/packages/switch/aarch64/switch-sdl2_image-2.8.2-1-aarch64.pkg.tar.xz \
+            https://pkg.devkitpro.org/packages/switch/aarch64/switch-sdl2_ttf-2.22.0-1-aarch64.pkg.tar.xz \
+            https://pkg.devkitpro.org/packages/switch/aarch64/switch-jansson-2.14-2-aarch64.pkg.tar.xz \
+            https://pkg.devkitpro.org/packages/switch/aarch64/switch-zziplib-0.13.78-1-aarch64.pkg.tar.xz
 
       - name: Compilar
         run: |

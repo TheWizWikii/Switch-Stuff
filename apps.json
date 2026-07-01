@@ -10,6 +10,11 @@
       "url": "https://github.com/ndeadly/MissionControl/releases/download/v0.15.2/MissionControl-0.15.2-master-d3941d43.zip",
       "dest": "/",
       "extract": true
+    },
+    {
+      "name": "Goldleaf",
+      "url": "https://github.com/XorTroll/Goldleaf/releases/download/1.2.0/Goldleaf.nro",
+      "dest": "/switch/Goldleaf/Goldleaf.nro"
     }
   ],
   "PORTS": [

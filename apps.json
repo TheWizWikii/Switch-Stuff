@@ -36,6 +36,12 @@
       "url": "https://github.com/TheWizWikii/Switch-Stuff/releases/download/ports/maxpayne.zip",
       "dest": "/switch",
       "extract": true
+    },
+    {
+      "name": "The Simpsons Hit & Run (PC)",
+      "url": "https://github.com/TheWizWikii/Switch-Stuff/releases/download/ports/Simpsons.zip",
+      "dest": "/switch",
+      "extract": true
     }
   ],
   "CFW": [

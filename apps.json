@@ -32,7 +32,7 @@
     },
     {
       "name": "The Legend of Zelda: Majora's Mask (N64)",
-      "url": "https://github.com/TheWizWikii/Switch-Stuff/releases/download/ports/2s2hMajorasMask.zip",
+      "url": "https://github.com/TheWizWikii/Switch-Stuff/releases/download/ports/2s2h.zip",
       "dest": "/switch",
       "extract": true
     },

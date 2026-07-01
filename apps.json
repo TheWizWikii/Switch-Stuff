@@ -59,6 +59,24 @@
       "url": "https://github.com/TheWizWikii/Switch-Stuff/releases/download/emus/pgen.zip",
       "dest": "/switch",
       "extract": true
+    },
+    {
+     "name": "PNES",
+      "url": "https://github.com/TheWizWikii/Switch-Stuff/releases/download/emus/Pnes.zip",
+      "dest": "/switch",
+      "extract": true
+    },
+    {
+     "name": "PFBNEO",
+      "url": "https://github.com/TheWizWikii/Switch-Stuff/releases/download/emus/Pfbneo.zip",
+      "dest": "/switch",
+      "extract": true
+    },
+    {
+     "name": "PSNES",
+      "url": "https://github.com/TheWizWikii/Switch-Stuff/releases/download/emus/Psnes.zip",
+      "dest": "/switch",
+      "extract": true
     }
   ],
   "FIRMWARE": [

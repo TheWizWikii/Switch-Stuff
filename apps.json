@@ -59,6 +59,12 @@
       "url": "https://github.com/TheWizWikii/Switch-Stuff/releases/download/ports/Simpsons.zip",
       "dest": "/switch",
       "extract": true
+    },
+    {
+      "name": "Bully (Android)",
+      "url": "https://download1979.mediafire.com/1016bhrwxphgOC2go6OigWTeNKjfvEiFAcp0qs6eGiFY68dWt-wQBP8LbV0caLFAVd2ZeXMqv4QE3RhiNxI3SL-vwfH2chuT0LmEROeuTj-M_AdSsEvg2tCadBMw7vhgNyR_QXwZpW2gsacSAmW-zllSltdnKXZuHqbz7u-ixoXf/56u7v4ycmtkks1h/bully.zip",
+      "dest": "/switch",
+      "extract": true
     }
   ],
   "CFW": [

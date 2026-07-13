@@ -16,6 +16,11 @@ Estas son las fuentes de los ports usados que he compilado. Algunos han sido des
 - Driver 2 [https://github.com/jamyaro/REDRIVER2-switch].
 - Silent Hill [https://github.com/ChaykaDed/silent-hill-decomp-nx].
 
+Emuladores 
+
+- NetherSX [https://github.com/NaGaa95/NetherSX2_nx].
+- Pemu [https://github.com/Cpasjuste/pemu].
+
 
 
 

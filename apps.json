@@ -112,6 +112,12 @@
       "url": "https://github.com/TheWizWikii/Switch-Stuff/releases/download/emus/Psnes.zip",
       "dest": "/switch",
       "extract": true
+    },
+    {
+     "name": "NetherSX",
+      "url": "https://github.com/NaGaa95/NetherSX2_nx/releases/download/1.0.1/NetherSX2.nro",
+      "dest": "/switch",
+      "extract": false
     }
   ],
   "FIRMWARE": [

@@ -18,8 +18,8 @@ Estas son las fuentes de los ports usados que he compilado. Algunos han sido des
 
 Emuladores 
 
-- NetherSX [https://github.com/NaGaa95/NetherSX2_nx].
-- Pemu [https://github.com/Cpasjuste/pemu].
+- NetherSX v1.1.0 [https://github.com/NaGaa95/NetherSX2_nx].
+- Pemu v6.7 [https://github.com/Cpasjuste/pemu].
 
 
 

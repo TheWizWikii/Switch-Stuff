@@ -20,6 +20,7 @@ Emuladores
 
 - NetherSX v1.1.0 [https://github.com/NaGaa95/NetherSX2_nx].
 - Pemu v6.7 [https://github.com/Cpasjuste/pemu].
+- Cemu v1.00 [https://github.com/NaGaa95/Cemu-nx/releases].
 
 
 

@@ -118,6 +118,12 @@
       "url": "https://github.com/TheWizWikii/Switch-Stuff/releases/download/emus/NetherSX.zip",
       "dest": "/",
       "extract": true
+    },
+    {
+     "name": "Cemu",
+      "url": "https://github.com/TheWizWikii/Switch-Stuff/releases/download/emus/Cemu.zip",
+      "dest": "/switch",
+      "extract": true
     }
   ],
   "FIRMWARE": [

@@ -15,6 +15,11 @@
       "name": "Goldleaf",
       "url": "https://github.com/XorTroll/Goldleaf/releases/download/1.2.0/Goldleaf.nro",
       "dest": "/switch/Goldleaf/Goldleaf.nro"
+    },
+    {
+      "name": "SwitchNOW",
+      "url": "https://github.com/Blade-Punisher/SwitchNOW/releases/download/v1.0.0/SwitchNOW-1.0.0.nro",
+      "dest": "/switch/SwitchNOW/SwitchNOW-1.0.0.nro"
     }
   ],
   "PORTS": [
@@ -124,7 +129,7 @@
       "url": "https://github.com/TheWizWikii/Switch-Stuff/releases/download/emus/Cemu.zip",
       "dest": "/switch",
       "extract": true
-      },
+    },
     {
      "name": "Drastic DS",
       "url": "https://github.com/TheWizWikii/Switch-Stuff/releases/download/emus/DrasticDS.zip",

@@ -124,6 +124,12 @@
       "url": "https://github.com/TheWizWikii/Switch-Stuff/releases/download/emus/Cemu.zip",
       "dest": "/switch",
       "extract": true
+      },
+    {
+     "name": "Drastic DS",
+      "url": "https://github.com/TheWizWikii/Switch-Stuff/releases/download/emus/DrasticDS.zip",
+      "dest": "/",
+      "extract": true
     }
   ],
   "FIRMWARE": [

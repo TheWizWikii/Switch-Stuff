@@ -13,7 +13,12 @@
     },
     {
       "name": "Goldleaf",
-      "url": "https://github.com/XorTroll/Goldleaf/releases/download/1.2.0/Goldleaf.nro",
+      "url": "https://github.com/XorTroll/Goldleaf/releases/latest/download/Goldleaf.nro",
+      "dest": "/switch/Goldleaf/Goldleaf.nro"
+    },
+    {
+      "name": "Tico",
+      "url": "https://github.com/ticohq/tico/releases/latest/download/tico.nro",
       "dest": "/switch/Goldleaf/Goldleaf.nro"
     },
     {

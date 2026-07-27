@@ -20,6 +20,12 @@
       "name": "SwitchNOW",
       "url": "https://github.com/Blade-Punisher/SwitchNOW/releases/download/v1.0.0/SwitchNOW-1.0.0.nro",
       "dest": "/switch/SwitchNOW/SwitchNOW-1.0.0.nro"
+    },
+    {
+      "name": "Sphaira",
+      "url": "https://github.com/ITotalJustice/sphaira/releases/download/1.0.0/sphaira.zip",
+      "dest": "/",
+      "extract": true
     }
   ],
   "PORTS": [

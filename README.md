@@ -24,6 +24,7 @@ Estas son las fuentes de los ports usados que he compilado. Algunos han sido des
 - NetherSX v1.1.0 [https://github.com/NaGaa95/NetherSX2_nx].
 - Pemu v6.7 [https://github.com/Cpasjuste/pemu].
 - Cemu v1.00 [https://github.com/NaGaa95/Cemu-nx/releases].
+- Dolphin v1.0.0 [https://github.com/NaGaa95/dolphin-nx/releases].
 
 # Apps 
 

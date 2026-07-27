@@ -33,6 +33,7 @@ Estas son las fuentes de los ports usados que he compilado. Algunos han sido des
 - MissionControl v0.15.2 [https://github.com/ndeadly/MissionControl].
 - Goldleaf v1.2.0 [https://github.com/XorTroll/Goldleaf].
 - Sphaira v1.0.0 [https://github.com/ITotalJustice/sphaira/releases].
+- Tico v0.7.8 [https://github.com/ticohq/tico/releases].
 
 
 

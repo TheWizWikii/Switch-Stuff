@@ -8,8 +8,8 @@ Estas son las fuentes de los ports usados que he compilado. Algunos han sido des
 
 # Ports
 
-- Bully [https://github.com/givethesourceplox/bully-NX].
-- Castlevania: Symphony of the Night [https://github.com/NaGaa95/sotn_nx].
+- Bully v0.0.2 [https://github.com/givethesourceplox/bully-NX].
+- Castlevania: Symphony of the Night v1.0.2 [https://github.com/NaGaa95/sotn_nx].
 - SpaghettiKart [https://github.com/HarbourMasters/SpaghettiKart].
 - Max Payne [https://github.com/fgsfdsfgs/max_nx].
 - The Legend of Zelda: Ocarina of Time [https://www.shipofharkinian.com/].

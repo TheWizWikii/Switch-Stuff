@@ -19,7 +19,7 @@
     {
       "name": "Tico",
       "url": "https://github.com/ticohq/tico/releases/latest/download/tico.nro",
-      "dest": "/switch/Goldleaf/Goldleaf.nro"
+      "dest": "/switch/tico.nro"
     },
     {
       "name": "SwitchNOW",
@@ -85,6 +85,12 @@
     {
       "name": "Driver 2 (PSX)",
       "url": "https://github.com/TheWizWikii/Switch-Stuff/releases/download/ports/redriver2.zip",
+      "dest": "/switch",
+      "extract": true
+    },
+    {
+      "name": "Super Mario Bros. Remastered",
+      "url": "https://github.com/TheWizWikii/Switch-Stuff/releases/download/ports/smbr_nx.zip",
       "dest": "/switch",
       "extract": true
     }

@@ -31,6 +31,12 @@
       "url": "https://github.com/ITotalJustice/sphaira/releases/download/1.0.0/sphaira.zip",
       "dest": "/",
       "extract": true
+    },
+    {
+      "name": "App Store",
+      "url": "https://github.com/fortheusers/hb-appstore/releases/download/v2.3.2/appstore.nro",
+      "dest": "/switch/appstore/appstore.nro",
+      "extract": false
     }
   ],
   "PORTS": [

@@ -99,6 +99,12 @@
       "url": "https://github.com/TheWizWikii/Switch-Stuff/releases/download/ports/smbr_nx.zip",
       "dest": "/switch",
       "extract": true
+    },
+    {
+      "name": "Super Mario World Plus Remastered",
+      "url": "https://github.com/TheWizWikii/Switch-Stuff/releases/download/ports/smwr.zip",
+      "dest": "/switch",
+      "extract": true
     }
   ],
   "CFW": [

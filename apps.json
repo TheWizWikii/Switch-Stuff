@@ -53,6 +53,12 @@
       "extract": true
     },
     {
+      "name": "Chrono Trigger (Android)",
+      "url": "https://github.com/TheWizWikii/Switch-Stuff/releases/download/ports/ChronoTrigger.zip",
+      "dest": "/switch",
+      "extract": true
+    },
+    {
       "name": "The Legend of Zelda: Ocarina of Time (N64)",
       "url": "https://github.com/TheWizWikii/Switch-Stuff/releases/download/ports/soh.zip",
       "dest": "/switch",

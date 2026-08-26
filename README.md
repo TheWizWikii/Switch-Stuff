@@ -21,6 +21,7 @@ Estas son las fuentes de los ports usados que he compilado. Algunos han sido des
 - Super Mario Bros. Remastered v1.0.0 [https://github.com/delsonazevedo/Super-Mario-Bros.-Remastered-Switch].
 - Super Mario World Remastered Plus v1.0.0 [https://github.com/delsonazevedo/Super-Mario-World-Remastered-Plus-Switch].
 - Chrono Trigger v1.1.0 [https://github.com/NaGaa95/ct_nx].
+- Dusklight v1.4.1.0 [https://github.com/givethesourceplox/dusklight-NX].
 
 # Emuladores 
 

@@ -53,6 +53,12 @@
       "extract": true
     },
     {
+      "name": "Zelda Twilight Princess (DUSK)",
+      "url": "https://github.com/TheWizWikii/Switch-Stuff/releases/download/ports/Dusk.zip",
+      "dest": "/",
+      "extract": true
+    },
+    {
       "name": "Chrono Trigger (Android)",
       "url": "https://github.com/TheWizWikii/Switch-Stuff/releases/download/ports/ChronoTrigger.zip",
       "dest": "/switch",

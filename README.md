@@ -30,6 +30,7 @@ Estas son las fuentes de los ports usados que he compilado. Algunos han sido des
 - Cemu v1.1.0 [https://github.com/NaGaa95/Cemu-nx/releases].
 - Dolphin v1.0.0 [https://github.com/NaGaa95/dolphin-nx/releases].
 - DrasticDS v1.0.6 [https://github.com/NaGaa95/DrasticDS_nx].
+- Vita3K v1.0.0 [https://github.com/NaGaa95/Vita3K-nx/releases].
 
 # Apps 
 

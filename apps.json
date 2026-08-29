@@ -148,6 +148,12 @@
       "extract": true
     },
     {
+     "name": "Vita3K",
+      "url": "https://github.com/TheWizWikii/Switch-Stuff/releases/download/emus/Vita3K.zip",
+      "dest": "/switch",
+      "extract": true
+    },
+    {
      "name": "PFBNEO",
       "url": "https://github.com/TheWizWikii/Switch-Stuff/releases/download/emus/Pfbneo.zip",
       "dest": "/switch",
